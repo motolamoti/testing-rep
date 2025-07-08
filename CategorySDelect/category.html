@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="category.css">
+</head>
+<body>
+    <h1>רשימת מוצרים </h1>
+    <label for="categoyselect">בחר קטגוריה</label>
+    <select id="categoyselect" onchange="updateProducts()">
+    <option value="">--בחר קטגוריה--</option>
+    <option value="electronics">אלקטרוניקה</option>
+    <option value="clothing">ביגוד</option>
+    <option value="books">ספרים</option>
+    </select>
+    <button onclick="filerProuct()"></button>
+    <div id="ProductContainer"></div>
+    <script src="category.js"></script>
+</body>
+
+</html>

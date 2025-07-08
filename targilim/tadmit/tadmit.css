@@ -1,0 +1,37 @@
+body{
+    background-color: azure;
+   background-image:  url( /images/_DSC9553.jpg);
+   background-size: 100%;
+}
+
+header{
+    text-align: center;
+    border: 6px solid white;
+    padding: 2px 5px;
+   
+   
+}
+:root{
+    border: ;
+}
+h2{
+    text-align: center;
+   
+}
+p{
+    text-align: center;
+}
+.myWebPage{
+   text-align: center;
+   background-color: aliceblue;
+
+}
+.link{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.link :hover{
+    color: azure;
+    background-color: brown;
+}

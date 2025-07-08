@@ -1,0 +1,27 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(235, 240, 240);
+    direction: ltr;
+}
+.container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #d14b4b ;
+    text-align: center;
+}
+.input-section {
+    margin-bottom: 20px;
+
+}
+button{
+    padding: 5px 10px;
+    font-size: 10פס;
+    background-color: rgb(209, 209, 228);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

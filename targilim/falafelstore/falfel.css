@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding: 50px;
+  background: #fff3cd;
+}
+
+input,
+button {
+  padding: 10px;
+  font-size: 16px;
+  margin: 5px;
+}
+
+#queue {
+  margin-top: 20px;
+  font-size: 18px;
+  background: #fff;
+  padding: 10px;
+  border-radius: 10px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+#status {
+  font-size: 20px;
+  margin-top: 30px;
+  color: #856404;
+}

@@ -1,0 +1,16 @@
+header{
+    text-align: center;
+}
+table td, th{
+       text-align: center;
+       align-self: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}

@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 40px;
+  background-color: #e0f7fa;
+}
+h2 {
+  color: #00796b;
+}
+button {
+  padding: 10px 25px;
+  font-size: 18px;
+  background-color: #00796b;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #004d40;
+}
+.log {
+  margin-top: 30px;
+  font-size: 20px;
+  color: #006064;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  width: 300px;
+  margin: 20px auto;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}

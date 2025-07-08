@@ -1,0 +1,38 @@
+img{
+    border: 10px solid blue;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+.img{
+    text-align: center;
+    border: 10px blue;
+}
+button:hover{
+    background-color: aquamarine;
+
+}
+.buton{
+    text-align: center;
+}
+.list{
+   color: green;
+    }
+.list li{
+    margin-bottom: 10px;
+}
+.list-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+.link :hover{
+   background-color: azure;
+}
+body{
+    border : 5px double black;
+}

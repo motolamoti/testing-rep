@@ -1,0 +1,45 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 18px;
+}
+.butonContainer{
+    text-align: center;
+    margin-top: 20px;
+}
+#btn1{
+    color: green;
+}
+#btn2{
+    color: blue;
+}
+.img{
+    text-align: center;
+    
+}
+img{
+    height: 250px;
+    width: 250px;
+    margin-top: 10px;
+}
+ol{
+    text-align: center;
+    
+}
+body{
+    background-color: bisque;
+}
+a{
+    color: blueviolet;
+    text-align: center;
+   
+}
+a:hover{
+    color: aqua;
+}
+.link{
+    text-align: center;
+}

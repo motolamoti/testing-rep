@@ -1,0 +1,35 @@
+body{
+    background-color: azure;
+   background-image:  url( /images/picatcu.jpg);
+   background-size: 100%;
+}
+
+header{
+    text-align: center;
+    border: 6px solid white;
+    padding: 2px 5px;
+   
+   
+}
+:root{
+    border: ;
+}
+h3{
+    text-align: center;
+   
+}
+p{
+    text-align: center;
+}
+.myWebPage{
+   text-align: center;
+   background-color: aliceblue;
+
+}
+.link1{
+    text-align: center;
+    
+}
+.link1 :hover{
+    background-color: aliceblue;
+}
